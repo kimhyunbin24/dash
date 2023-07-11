@@ -1,1 +1,1 @@
-web: python dadash.py
+web: gunicorn app:server
